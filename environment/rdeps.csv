@@ -1,0 +1,183 @@
+"","Package","LibPath","Version","Priority","Depends","Imports","LinkingTo","Suggests","Enhances","License","License_is_FOSS","License_restricts_use","OS_type","MD5sum","NeedsCompilation","Built"
+"askpass","askpass","/opt/miniconda3/envs/tiptox/lib/R/library","1.1",NA,NA,"sys (>= 2.1)",NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"assertthat","assertthat","/opt/miniconda3/envs/tiptox/lib/R/library","0.2.1",NA,NA,"tools",NA,"testthat, covr",NA,"GPL-3",NA,NA,NA,NA,"no","3.6.0"
+"backports","backports","/opt/miniconda3/envs/tiptox/lib/R/library","1.1.4",NA,"R (>= 3.0.0)","utils",NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.6.0"
+"base","base","/opt/miniconda3/envs/tiptox/lib/R/library","3.6.1","base",NA,NA,NA,"methods",NA,"Part of R 3.6.1",NA,NA,NA,NA,NA,"3.6.1"
+"base64enc","base64enc","/opt/miniconda3/envs/tiptox/lib/R/library","0.1-3",NA,"R (>= 2.9.0)",NA,NA,NA,"png","GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.6.0"
+"BH","BH","/opt/miniconda3/envs/tiptox/lib/R/library","1.72.0-3",NA,NA,NA,NA,NA,NA,"BSL-1.0",NA,NA,NA,NA,"no","3.6.1"
+"bit","bit","/opt/miniconda3/envs/tiptox/lib/R/library","1.1-15.2",NA,"R (>= 2.9.2)",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.6.1"
+"bit64","bit64","/opt/miniconda3/envs/tiptox/lib/R/library","0.9-7",NA,"R (>= 3.0.1), bit (>= 1.1-12), utils, methods, stats",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.1"
+"blob","blob","/opt/miniconda3/envs/tiptox/lib/R/library","1.2.1",NA,NA,"methods, rlang, vctrs (>= 0.2.1)",NA,"covr, crayon, pillar (>= 1.2.1), testthat",NA,"GPL-3",NA,NA,NA,NA,"no","3.6.1"
+"boot","boot","/opt/miniconda3/envs/tiptox/lib/R/library","1.3-20","recommended","R (>= 3.0.0), graphics, stats",NA,NA,"MASS, survival",NA,"Unlimited",NA,NA,NA,NA,"no","3.6.0"
+"callr","callr","/opt/miniconda3/envs/tiptox/lib/R/library","3.2.0",NA,NA,"processx (>= 3.3.0), R6, utils",NA,"cliapp, covr, crayon, pingr, ps, testthat, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.0"
+"chron","chron","/opt/miniconda3/envs/tiptox/lib/R/library","2.3-55",NA,"R (>= 2.12.0)","graphics, stats",NA,"scales, ggplot2","zoo","GPL-2",NA,NA,NA,NA,"yes","3.6.1"
+"class","class","/opt/miniconda3/envs/tiptox/lib/R/library","7.3-15",NA,"R (>= 3.0.0), stats, utils","MASS",NA,NA,NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.6.0"
+"cli","cli","/opt/miniconda3/envs/tiptox/lib/R/library","2.0.2",NA,"R (>= 2.10)","assertthat, crayon (>= 1.3.4), glue, methods, utils, fansi",NA,"callr, covr, htmlwidgets, knitr, mockery, rmarkdown,
+rstudioapi, prettycode (>= 1.1.0), testthat, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"clipr","clipr","/opt/miniconda3/envs/tiptox/lib/R/library","0.6.0",NA,NA,"utils",NA,"covr, knitr, rmarkdown, rstudioapi (>= 0.5), testthat (>=
+2.0.0)",NA,"GPL-3",NA,NA,NA,NA,"no","3.6.0"
+"clisymbols","clisymbols","/opt/miniconda3/envs/tiptox/lib/R/library","1.2.0",NA,NA,NA,NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.0"
+"cluster","cluster","/opt/miniconda3/envs/tiptox/lib/R/library","2.0.8",NA,"R (>= 3.3.0)","graphics, grDevices, stats, utils",NA,"MASS, Matrix",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.0"
+"codetools","codetools","/opt/miniconda3/envs/tiptox/lib/R/library","0.2-16","recommended","R (>= 2.1)",NA,NA,NA,NA,"GPL",NA,NA,NA,NA,"no","3.6.0"
+"compiler","compiler","/opt/miniconda3/envs/tiptox/lib/R/library","3.6.1","base",NA,NA,NA,NA,NA,"Part of R 3.6.1",NA,NA,NA,NA,NA,"3.6.1"
+"crayon","crayon","/opt/miniconda3/envs/tiptox/lib/R/library","1.3.4",NA,NA,"grDevices, methods, utils",NA,"mockery, rstudioapi, testthat, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.0"
+"curl","curl","/opt/miniconda3/envs/tiptox/lib/R/library","4.3",NA,"R (>= 3.0.0)",NA,NA,"spelling, testthat (>= 1.0.0), knitr, jsonlite, rmarkdown,
+magrittr, httpuv (>= 1.4.4), webutils",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"data.table","data.table","/opt/miniconda3/envs/tiptox/lib/R/library","1.12.8",NA,"R (>= 3.1.0)","methods",NA,"bit64, curl, R.utils, knitr, xts, nanotime, zoo, yaml",NA,"MPL-2.0 | file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"datasets","datasets","/opt/miniconda3/envs/tiptox/lib/R/library","3.6.1","base",NA,NA,NA,NA,NA,"Part of R 3.6.1",NA,NA,NA,NA,NA,"3.6.1"
+"DBI","DBI","/opt/miniconda3/envs/tiptox/lib/R/library","1.1.0",NA,"methods, R (>= 3.0.0)",NA,NA,"blob, covr, hms, knitr, magrittr, rmarkdown, rprojroot,
+RSQLite (>= 1.1-2), testthat, xml2",NA,"LGPL (>= 2.1)",NA,NA,NA,NA,"no","3.6.1"
+"desc","desc","/opt/miniconda3/envs/tiptox/lib/R/library","1.2.0",NA,"R (>= 3.1.0)","assertthat, utils, R6, crayon, rprojroot",NA,"covr, testthat, whoami, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.0"
+"deSolve","deSolve","/opt/miniconda3/envs/tiptox/lib/R/library","1.21",NA,"R (>= 2.15.0)","methods, graphics, grDevices, stats",NA,"scatterplot3d",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.1"
+"devtools","devtools","/opt/miniconda3/envs/tiptox/lib/R/library","2.0.2",NA,"R (>= 3.0.2)","callr, cli, digest, git2r (>= 0.23.0), httr (>= 0.4),
+jsonlite, memoise (>= 1.0.0), pkgbuild (>= 1.0.2), pkgload (>=
+1.0.1), rcmdcheck (>= 1.3.2), remotes (>= 2.0.2), rstudioapi
+(>= 0.6.0.9000), sessioninfo, stats, tools, usethis (>= 1.4.0),
+utils, withr",NA,"BiocManager, bitops, covr (>= 3.2.0), crayon, curl (>= 0.9),
+evaluate, foghorn (>= 1.1.0), gmailr (> 0.7.0), knitr, lintr
+(>= 0.2.1), mockery, pingr, MASS, pkgdown, Rcpp (>= 0.10.0),
+rhub (>= 1.0.2), rmarkdown, roxygen2 (>= 6.1.0), rversions,
+spelling (>= 1.1), testthat (>= 1.0.2), whisker",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.6.0"
+"digest","digest","/opt/miniconda3/envs/tiptox/lib/R/library","0.6.25",NA,"R (>= 3.1.0)","utils",NA,"tinytest, knitr, rmarkdown",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"dplyr","dplyr","/opt/miniconda3/envs/tiptox/lib/R/library","0.8.5",NA,"R (>= 3.2.0)","ellipsis, assertthat (>= 0.2.0), glue (>= 1.3.0), magrittr (>=
+1.5), methods, pkgconfig, R6, Rcpp (>= 1.0.1), rlang (>=
+0.4.0), tibble (>= 2.0.0), tidyselect (>= 0.2.5), utils","BH, plogr (>= 0.2.0), Rcpp (>= 1.0.1)","bit64, callr, covr, crayon (>= 1.3.4), DBI, dbplyr, dtplyr,
+ggplot2, hms, knitr, Lahman, lubridate, MASS, mgcv,
+microbenchmark, nycflights13, rmarkdown, RMySQL, RPostgreSQL,
+RSQLite, testthat, withr, broom, purrr, readr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"ellipsis","ellipsis","/opt/miniconda3/envs/tiptox/lib/R/library","0.3.1",NA,"R (>= 3.2)","rlang (>= 0.3.0)",NA,"covr, testthat",NA,"GPL-3",NA,NA,NA,NA,"yes","3.6.1"
+"evaluate","evaluate","/opt/miniconda3/envs/tiptox/lib/R/library","0.13",NA,"R (>= 3.0.2)","methods",NA,"testthat, lattice, ggplot2",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.0"
+"expm","expm","/opt/miniconda3/envs/tiptox/lib/R/library","0.999-2",NA,"Matrix","methods",NA,"RColorBrewer, sfsmisc, Rmpfr",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.1"
+"fansi","fansi","/opt/miniconda3/envs/tiptox/lib/R/library","0.4.1",NA,"R (>= 3.1.0)",NA,NA,"unitizer, knitr, rmarkdown",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"foreign","foreign","/opt/miniconda3/envs/tiptox/lib/R/library","0.8-71",NA,"R (>= 3.0.0)","methods, utils, stats",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.0"
+"fs","fs","/opt/miniconda3/envs/tiptox/lib/R/library","1.2.7",NA,"R (>= 3.1)","methods, Rcpp","Rcpp","testthat, covr, pillar (>= 1.0.0), crayon, rmarkdown, knitr,
+withr,",NA,"GPL-3",NA,NA,NA,NA,"yes","3.6.0"
+"gh","gh","/opt/miniconda3/envs/tiptox/lib/R/library","1.0.1",NA,NA,"ini, jsonlite, httr",NA,"covr, pingr, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.0"
+"git2r","git2r","/opt/miniconda3/envs/tiptox/lib/R/library","0.25.2",NA,"R (>= 3.1)","graphics, utils",NA,"getPass",NA,"GPL-2",NA,NA,NA,NA,"yes","3.6.0"
+"glue","glue","/opt/miniconda3/envs/tiptox/lib/R/library","1.4.1",NA,"R (>= 3.1)","methods",NA,"testthat, covr, magrittr, crayon, knitr, rmarkdown, DBI,
+RSQLite, R.utils, forcats, microbenchmark, rprintf, stringr,
+ggplot2, dplyr, withr, vctrs (>= 0.3.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"graphics","graphics","/opt/miniconda3/envs/tiptox/lib/R/library","3.6.1","base",NA,"grDevices",NA,NA,NA,"Part of R 3.6.1",NA,NA,NA,NA,"yes","3.6.1"
+"grDevices","grDevices","/opt/miniconda3/envs/tiptox/lib/R/library","3.6.1","base",NA,NA,NA,"KernSmooth",NA,"Part of R 3.6.1",NA,NA,NA,NA,"yes","3.6.1"
+"grid","grid","/opt/miniconda3/envs/tiptox/lib/R/library","3.6.1","base",NA,"grDevices, utils",NA,"lattice",NA,"Part of R 3.6.1",NA,NA,NA,NA,"yes","3.6.1"
+"gsubfn","gsubfn","/opt/miniconda3/envs/tiptox/lib/R/library","0.7",NA,"proto",NA,NA,"boot, chron, grid, lattice, quantreg, svUnit, tcltk, zoo",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.6.1"
+"hms","hms","/opt/miniconda3/envs/tiptox/lib/R/library","0.5.3",NA,NA,"methods, pkgconfig, rlang, vctrs (>= 0.2.1)",NA,"crayon, lubridate, pillar (>= 1.1.0), testthat",NA,"GPL-3",NA,NA,NA,NA,"no","3.6.1"
+"htmltools","htmltools","/opt/miniconda3/envs/tiptox/lib/R/library","0.3.6",NA,"R (>= 2.14.1)","utils, digest, Rcpp","Rcpp","markdown, testthat","knitr","GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.0"
+"httk","httk","/opt/miniconda3/envs/tiptox/lib/R/library","1.8",NA,"R (>= 2.10)","deSolve, msm, data.table, survey, mvtnorm, truncnorm, stats,
+utils",NA,"ggplot2, knitr, rmarkdown, R.rsp, GGally, gplots, scales,
+EnvStats, MASS, RColorBrewer, TeachingDemos, classInt, ks,
+reshape2, gdata, viridis, CensRegMod, gmodels, colorspace",NA,"GPL-3",NA,NA,NA,NA,"yes","3.5.1"
+"httr","httr","/opt/miniconda3/envs/tiptox/lib/R/library","1.4.1",NA,"R (>= 3.2)","curl (>= 3.0.0), jsonlite, mime, openssl (>= 0.8), R6",NA,"covr, httpuv, jpeg, knitr, png, readr, rmarkdown, testthat
+(>= 0.8.0), xml2",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"ini","ini","/opt/miniconda3/envs/tiptox/lib/R/library","0.3.1",NA,NA,NA,NA,"testthat",NA,"GPL-3",NA,NA,NA,NA,"no","3.6.0"
+"IRdisplay","IRdisplay","/opt/miniconda3/envs/tiptox/lib/R/library","0.7.0",NA,"R (>= 3.0.1)","methods, repr",NA,"testthat, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.0"
+"IRkernel","IRkernel","/opt/miniconda3/envs/tiptox/lib/R/library","0.8.15",NA,"R (>= 3.2.0)","repr (>= 0.4.99),
+methods,
+evaluate (>= 0.10),
+IRdisplay (>= 0.3.0.9999),
+pbdZMQ (>= 0.2-1),
+crayon,
+jsonlite (>= 0.9.6),
+uuid,
+digest",NA,"testthat,
+roxygen2",NA,"MIT + file LICENSE",NA,NA,NA,NA,NA,"3.6.0"
+"jsonlite","jsonlite","/opt/miniconda3/envs/tiptox/lib/R/library","1.6.1",NA,"methods",NA,NA,"httr, curl, plyr, testthat, knitr, rmarkdown, R.rsp, sp",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"KernSmooth","KernSmooth","/opt/miniconda3/envs/tiptox/lib/R/library","2.23-15","recommended","R (>= 2.5.0), stats",NA,NA,"MASS",NA,"Unlimited",NA,NA,NA,NA,"yes","3.6.0"
+"lattice","lattice","/opt/miniconda3/envs/tiptox/lib/R/library","0.20-38",NA,"R (>= 3.0.0)","grid, grDevices, graphics, stats, utils",NA,"KernSmooth, MASS, latticeExtra","chron","GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.0"
+"lifecycle","lifecycle","/opt/miniconda3/envs/tiptox/lib/R/library","0.2.0",NA,"R (>= 3.2)","glue, rlang (>= 0.4.0)",NA,"covr, crayon, knitr, rmarkdown, testthat (>= 2.1.0)",NA,"GPL-3",NA,NA,NA,NA,"no","3.6.1"
+"magrittr","magrittr","/opt/miniconda3/envs/tiptox/lib/R/library","1.5",NA,NA,NA,NA,"testthat, knitr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.0"
+"MASS","MASS","/opt/miniconda3/envs/tiptox/lib/R/library","7.3-51.3",NA,"R (>= 3.1.0), grDevices, graphics, stats, utils","methods",NA,"lattice, nlme, nnet, survival",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.6.0"
+"Matrix","Matrix","/opt/miniconda3/envs/tiptox/lib/R/library","1.2-17",NA,"R (>= 3.2.0)","methods, graphics, grid, stats, utils, lattice",NA,"expm, MASS","MatrixModels, graph, SparseM, sfsmisc","GPL (>= 2) | file LICENCE",NA,NA,NA,NA,"yes","3.6.0"
+"memoise","memoise","/opt/miniconda3/envs/tiptox/lib/R/library","1.1.0",NA,NA,"digest (>= 0.6.3)",NA,"testthat, aws.s3, httr, covr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.0"
+"methods","methods","/opt/miniconda3/envs/tiptox/lib/R/library","3.6.1","base",NA,"utils, stats",NA,"codetools",NA,"Part of R 3.6.1",NA,NA,NA,NA,"yes","3.6.1"
+"mgcv","mgcv","/opt/miniconda3/envs/tiptox/lib/R/library","1.8-28",NA,"R (>= 2.14.0), nlme (>= 3.1-64)","methods, stats, graphics, Matrix, splines, utils",NA,"parallel, survival, MASS",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.0"
+"mime","mime","/opt/miniconda3/envs/tiptox/lib/R/library","0.9",NA,NA,"tools",NA,NA,NA,"GPL",NA,NA,NA,NA,"yes","3.6.1"
+"msm","msm","/opt/miniconda3/envs/tiptox/lib/R/library","1.6.6",NA,NA,"survival,mvtnorm,expm",NA,"mstate,minqa,doParallel,foreach,numDeriv,testthat,flexsurv",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.1"
+"mvtnorm","mvtnorm","/opt/miniconda3/envs/tiptox/lib/R/library","1.0-8",NA,"R(>= 1.9.0)","stats, methods",NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.1"
+"nlme","nlme","/opt/miniconda3/envs/tiptox/lib/R/library","3.1-139",NA,"R (>= 3.4.0)","graphics, stats, utils, lattice",NA,"Hmisc, MASS",NA,"GPL (>= 2) | file LICENCE",NA,NA,NA,NA,"yes","3.6.0"
+"nnet","nnet","/opt/miniconda3/envs/tiptox/lib/R/library","7.3-12",NA,"R (>= 2.14.0), stats, utils",NA,NA,"MASS",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.6.0"
+"numDeriv","numDeriv","/opt/miniconda3/envs/tiptox/lib/R/library","2016.8-1.1",NA,"R (>= 2.11.1)",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,"no","3.6.1"
+"openssl","openssl","/opt/miniconda3/envs/tiptox/lib/R/library","1.4.1",NA,NA,"askpass",NA,"testthat, digest, knitr, rmarkdown, jsonlite, jose, sodium",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"parallel","parallel","/opt/miniconda3/envs/tiptox/lib/R/library","3.6.1","base",NA,"tools, compiler",NA,"methods","snow, nws, Rmpi","Part of R 3.6.1",NA,NA,NA,NA,"yes","3.6.1"
+"pbdZMQ","pbdZMQ","/opt/miniconda3/envs/tiptox/lib/R/library","0.3-3",NA,"R (>= 3.2.0)",NA,NA,NA,NA,"GPL-3",NA,NA,NA,NA,"yes","3.6.0"
+"pillar","pillar","/opt/miniconda3/envs/tiptox/lib/R/library","1.4.4",NA,NA,"cli, crayon (>= 1.3.4), fansi, rlang (>= 0.3.0), utf8 (>=
+1.1.0), vctrs (>= 0.2.0)",NA,"knitr, lubridate, testthat (>= 2.0.0), withr",NA,"GPL-3",NA,NA,NA,NA,"no","3.6.1"
+"pkgbuild","pkgbuild","/opt/miniconda3/envs/tiptox/lib/R/library","1.0.3",NA,"R (>= 3.1)","callr (>= 2.0.0), cli, crayon, desc, prettyunits, R6,
+rprojroot, withr (>= 2.1.2)",NA,"Rcpp, testthat, covr",NA,"GPL-3",NA,NA,NA,NA,"no","3.6.0"
+"pkgconfig","pkgconfig","/opt/miniconda3/envs/tiptox/lib/R/library","2.0.3",NA,NA,"utils",NA,"covr, testthat, disposables (>= 1.0.3)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"pkgload","pkgload","/opt/miniconda3/envs/tiptox/lib/R/library","1.0.2",NA,NA,"desc, methods, pkgbuild, rlang, rprojroot, rstudioapi, utils,
+withr",NA,"bitops, covr, Rcpp, testthat",NA,"GPL-3",NA,NA,NA,NA,"yes","3.6.0"
+"plogr","plogr","/opt/miniconda3/envs/tiptox/lib/R/library","0.2.0",NA,NA,NA,NA,"Rcpp",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.1"
+"prettyunits","prettyunits","/opt/miniconda3/envs/tiptox/lib/R/library","1.0.2",NA,NA,"magrittr, assertthat, methods",NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.0"
+"processx","processx","/opt/miniconda3/envs/tiptox/lib/R/library","3.3.0",NA,NA,"ps (>= 1.2.0), R6, utils",NA,"callr, covr, crayon, debugme, parallel, testthat, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.0"
+"proto","proto","/opt/miniconda3/envs/tiptox/lib/R/library","1.0.0",NA,NA,NA,NA,"testthat, covr",NA,"GPL-2",NA,NA,NA,NA,"no","3.6.1"
+"ps","ps","/opt/miniconda3/envs/tiptox/lib/R/library","1.3.0",NA,"R (>= 3.1)","utils",NA,"callr, covr, curl, pingr, processx (>= 3.1.0), R6, rlang,
+testthat, tibble",NA,"BSD_3_clause + file LICENSE",NA,NA,NA,NA,"yes","3.6.0"
+"purrr","purrr","/opt/miniconda3/envs/tiptox/lib/R/library","0.3.4",NA,"R (>= 3.2)","magrittr (>= 1.5), rlang (>= 0.3.1)",NA,"covr, crayon, dplyr (>= 0.7.8), knitr, rmarkdown, testthat,
+tibble, tidyselect",NA,"GPL-3 | file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"R6","R6","/opt/miniconda3/envs/tiptox/lib/R/library","2.4.1",NA,"R (>= 3.0)",NA,NA,"knitr, microbenchmark, pryr, testthat, ggplot2, scales",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"rcmdcheck","rcmdcheck","/opt/miniconda3/envs/tiptox/lib/R/library","1.3.2",NA,NA,"callr (>= 2.0.0), cli, crayon, desc (>= 1.2.0), digest,
+pkgbuild, prettyunits, R6, rprojroot, sessioninfo (>= 1.1.1),
+utils, withr, xopen",NA,"covr, knitr, mockery, rmarkdown, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.0"
+"RColorBrewer","RColorBrewer","/opt/miniconda3/envs/tiptox/lib/R/library","1.1-2",NA,"R (>= 2.0.0)",NA,NA,NA,NA,"Apache License 2.0",NA,NA,NA,NA,"no","3.5.1"
+"Rcpp","Rcpp","/opt/miniconda3/envs/tiptox/lib/R/library","1.0.4.6",NA,NA,"methods, utils",NA,"tinytest, inline, rbenchmark, pkgKitten (>= 0.1.2)",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"remotes","remotes","/opt/miniconda3/envs/tiptox/lib/R/library","2.0.4",NA,"R (>= 3.0.0)","methods, stats, tools, utils",NA,"brew, callr, curl, covr, git2r (>= 0.23.0), knitr, mockery,
+pkgbuild (>= 1.0.1), pingr, rmarkdown, rprojroot, testthat,
+withr",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.6.0"
+"repr","repr","/opt/miniconda3/envs/tiptox/lib/R/library","0.19.2",NA,"R (>= 3.0.1)","utils, grDevices, htmltools, jsonlite, base64enc",NA,"methods, highr, Cairo, stringr, testthat, leaflet","data.table, dplyr, htmlwidgets, vegalite, plotly, geojsonio","GPL-3",NA,NA,NA,NA,"no","3.6.0"
+"rlang","rlang","/opt/miniconda3/envs/tiptox/lib/R/library","0.4.6",NA,"R (>= 3.2.0)",NA,NA,"cli, covr, crayon, glue, magrittr, methods, pillar,
+rmarkdown, testthat (>= 2.3.0), vctrs (>= 0.2.3)",NA,"GPL-3",NA,NA,NA,NA,"yes","3.6.1"
+"RMariaDB","RMariaDB","/opt/miniconda3/envs/tiptox/lib/R/library","1.0.8",NA,"R (>= 2.8.0)","bit64, DBI (>= 1.1.0), hms (>= 0.5.0), methods, Rcpp (>=
+0.12.4)","BH, plogr, Rcpp","DBItest (>= 1.7.0), rprojroot, testthat",NA,"GPL-3",NA,NA,NA,NA,"yes","3.6.1"
+"RMySQL","RMySQL","/opt/miniconda3/envs/tiptox/lib/R/library","0.10.15",NA,"R (>= 2.8.0), DBI (>= 0.4)","methods",NA,"testthat, curl",NA,"GPL-2",NA,NA,NA,NA,"yes","3.6.0"
+"rpart","rpart","/opt/miniconda3/envs/tiptox/lib/R/library","4.1-15",NA,"R (>= 2.15.0), graphics, stats, grDevices",NA,NA,"survival",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.6.0"
+"rprojroot","rprojroot","/opt/miniconda3/envs/tiptox/lib/R/library","1.3-2",NA,"R (>= 3.0.0)","backports",NA,"testthat, mockr, knitr, withr, rmarkdown",NA,"GPL-3",NA,NA,NA,NA,"no","3.6.0"
+"RSQLite","RSQLite","/opt/miniconda3/envs/tiptox/lib/R/library","2.2.0",NA,"R (>= 3.1.0)","bit64, blob (>= 1.2.0), DBI (>= 1.1.0), memoise, methods,
+pkgconfig, Rcpp (>= 0.12.7)","BH, plogr (>= 0.2.0), Rcpp","DBItest (>= 1.7.0), knitr, rmarkdown, testthat",NA,"LGPL (>= 2.1)",NA,NA,NA,NA,"yes","3.6.1"
+"rstudioapi","rstudioapi","/opt/miniconda3/envs/tiptox/lib/R/library","0.10",NA,NA,NA,NA,"testthat, knitr, rmarkdown",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.0"
+"sessioninfo","sessioninfo","/opt/miniconda3/envs/tiptox/lib/R/library","1.1.1",NA,NA,"cli, tools, utils, withr",NA,"callr, covr, mockery, testthat",NA,"GPL-2",NA,NA,NA,NA,"no","3.6.0"
+"spatial","spatial","/opt/miniconda3/envs/tiptox/lib/R/library","7.3-11",NA,"R (>= 3.0.0), graphics, stats, utils",NA,NA,"MASS",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.6.0"
+"splines","splines","/opt/miniconda3/envs/tiptox/lib/R/library","3.6.1","base",NA,"graphics, stats",NA,"Matrix, methods",NA,"Part of R 3.6.1",NA,NA,NA,NA,"yes","3.6.1"
+"sqldf","sqldf","/opt/miniconda3/envs/tiptox/lib/R/library","0.4-11",NA,"R (>= 3.1.0), gsubfn (>= 0.6), proto, RSQLite","DBI, chron",NA,"RH2, RMySQL, RPostgreSQL, svUnit, tcltk, MASS",NA,"GPL-2",NA,NA,NA,NA,"no","3.6.1"
+"stats","stats","/opt/miniconda3/envs/tiptox/lib/R/library","3.6.1","base",NA,"utils, grDevices, graphics",NA,"MASS, Matrix, SuppDists, methods, stats4",NA,"Part of R 3.6.1",NA,NA,NA,NA,"yes","3.6.1"
+"stats4","stats4","/opt/miniconda3/envs/tiptox/lib/R/library","3.6.1","base",NA,"graphics, methods, stats",NA,NA,NA,"Part of R 3.6.1",NA,NA,NA,NA,NA,"3.6.1"
+"stringi","stringi","/opt/miniconda3/envs/tiptox/lib/R/library","1.4.6",NA,"R (>= 2.14)","tools, utils, stats",NA,NA,NA,"file LICENSE","yes",NA,NA,NA,"yes","3.6.1"
+"survey","survey","/opt/miniconda3/envs/tiptox/lib/R/library","3.33-2",NA,"R (>= 2.16.0), grid, methods, Matrix, survival","stats, graphics, splines, lattice",NA,"foreign, MASS, KernSmooth, hexbin, mitools, RSQLite, RODBC,
+quantreg, parallel, CompQuadForm, DBI",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"no","3.5.1"
+"survival","survival","/opt/miniconda3/envs/tiptox/lib/R/library","2.44-1.1",NA,"R (>= 2.13.0)","graphics, Matrix, methods, splines, stats, utils",NA,NA,NA,"LGPL (>= 2)",NA,NA,NA,NA,"yes","3.6.0"
+"sys","sys","/opt/miniconda3/envs/tiptox/lib/R/library","3.3",NA,NA,NA,NA,"unix (>= 1.4), spelling, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"tcltk","tcltk","/opt/miniconda3/envs/tiptox/lib/R/library","3.6.1","base",NA,"utils",NA,NA,NA,"Part of R 3.6.1",NA,NA,NA,NA,"yes","3.6.1"
+"tcpl","tcpl","/opt/miniconda3/envs/tiptox/lib/R/library","2.0.3",NA,"R (>= 3.2.0)","data.table (>= 1.9.4), DBI, RMariaDB, numDeriv, RColorBrewer,
+utils, stats, methods, graphics, grDevices, sqldf, httr, dplyr,
+tidyr",NA,"roxygen2, knitr, prettydoc, rmarkdown, htmlTable, testthat
+(>= 2.1.0)",NA,"GPL-2",NA,NA,NA,NA,"no","3.6.1"
+"tibble","tibble","/opt/miniconda3/envs/tiptox/lib/R/library","3.0.1",NA,"R (>= 3.1.0)","cli, crayon (>= 1.3.4), ellipsis (>= 0.2.0), fansi (>= 0.4.0),
+lifecycle (>= 0.2.0), magrittr, methods, pillar (>= 1.4.3),
+pkgconfig, rlang (>= 0.4.3), utils, vctrs (>= 0.2.4)",NA,"bench, bit64, blob, covr, dplyr, evaluate, hms, htmltools,
+import, knitr, mockr, nycflights13, purrr, rmarkdown, testthat
+(>= 2.1.0), tidyr, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"tidyr","tidyr","/opt/miniconda3/envs/tiptox/lib/R/library","1.1.0",NA,"R (>= 3.1)","dplyr (>= 0.8.2), ellipsis (>= 0.1.0), glue, magrittr, purrr,
+Rcpp, rlang, stringi, tibble (>= 2.1.1), tidyselect (>= 1.1.0),
+utils, vctrs (>= 0.3.0), lifecycle","Rcpp","covr, jsonlite, knitr, repurrrsive (>= 1.0.0), rmarkdown,
+readr, testthat (>= 2.1.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"tidyselect","tidyselect","/opt/miniconda3/envs/tiptox/lib/R/library","1.1.0",NA,"R (>= 3.2)","ellipsis, glue (>= 1.3.0), purrr (>= 0.3.2), rlang (>= 0.4.6),
+vctrs (>= 0.2.2)",NA,"covr, crayon, dplyr, knitr, magrittr, rmarkdown, testthat (>=
+2.3.0), tibble (>= 2.1.3), withr",NA,"GPL-3",NA,NA,NA,NA,"yes","3.6.1"
+"tools","tools","/opt/miniconda3/envs/tiptox/lib/R/library","3.6.1","base",NA,NA,NA,"codetools, methods, xml2, curl, commonmark",NA,"Part of R 3.6.1",NA,NA,NA,NA,"yes","3.6.1"
+"truncnorm","truncnorm","/opt/miniconda3/envs/tiptox/lib/R/library","1.0-8",NA,"R (>= 3.4.0)",NA,NA,"testthat",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.1"
+"usethis","usethis","/opt/miniconda3/envs/tiptox/lib/R/library","1.5.0",NA,"R (>= 3.1)","clipr (>= 0.3.0), clisymbols, crayon, curl (>= 2.7), desc, fs
+(>= 1.2.0), gh, git2r (>= 0.23), glue (>= 1.2.0), purrr, rlang,
+rprojroot (>= 1.2), rstudioapi, stats, utils, whisker, withr,
+yaml",NA,"covr, knitr, magick, pkgdown (>= 1.1.0), rmarkdown, roxygen2,
+spelling (>= 1.2), styler (>= 1.0.2), testthat (>= 2.0.0)",NA,"GPL-3",NA,NA,NA,NA,"no","3.6.0"
+"utf8","utf8","/opt/miniconda3/envs/tiptox/lib/R/library","1.1.4",NA,"R (>= 2.10)",NA,NA,"knitr, rmarkdown, testthat",NA,"Apache License (== 2.0) | file LICENSE",NA,NA,NA,NA,"yes","3.6.0"
+"utils","utils","/opt/miniconda3/envs/tiptox/lib/R/library","3.6.1","base",NA,NA,NA,"methods, xml2, commonmark",NA,"Part of R 3.6.1",NA,NA,NA,NA,"yes","3.6.1"
+"uuid","uuid","/opt/miniconda3/envs/tiptox/lib/R/library","0.1-2",NA,"R (>= 2.9.0)",NA,NA,NA,NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.0"
+"vctrs","vctrs","/opt/miniconda3/envs/tiptox/lib/R/library","0.3.0",NA,"R (>= 3.2)","ellipsis (>= 0.2.0), digest, glue, rlang (>= 0.4.5)",NA,"bit64, covr, crayon, dplyr (>= 0.8.5), generics, knitr,
+pillar (>= 1.4.4), pkgdown, rmarkdown, testthat (>= 2.3.0),
+tibble, withr, xml2, zeallot",NA,"GPL-3",NA,NA,NA,NA,"yes","3.6.1"
+"whisker","whisker","/opt/miniconda3/envs/tiptox/lib/R/library","0.3-2",NA,NA,NA,NA,"markdown",NA,"GPL-3",NA,NA,NA,NA,"no","3.6.0"
+"withr","withr","/opt/miniconda3/envs/tiptox/lib/R/library","2.1.2",NA,"R (>= 3.0.2)","stats, graphics, grDevices",NA,"testthat, covr, lattice, DBI, RSQLite, methods, knitr,
+rmarkdown",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.6.0"
+"xopen","xopen","/opt/miniconda3/envs/tiptox/lib/R/library","1.0.0",NA,"R (>= 3.1)","processx",NA,"ps, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.0"
+"yaml","yaml","/opt/miniconda3/envs/tiptox/lib/R/library","2.2.0",NA,NA,NA,NA,"RUnit",NA,"BSD_3_clause + file LICENSE",NA,NA,NA,NA,"yes","3.6.0"
