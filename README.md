@@ -17,11 +17,13 @@ This repository contains the necessary data, python source code and jupyter note
     │   ├── condaenv.yml
     │   ├── rdeps.csv
     │   └── requirements.txt
+    │
     ├── inputs                                                  # Input data for the analysis
     │   ├── cyprotex-heprn2-jul-2017-raw-v2.csv                 # Raw well level HCI data 
     │   ├── heprn-chems-1.tsv                                   # Chemical information
     │   ├── heprn-toxcast-hits-qual.csv                         # ToxCast in vitro assay data
     │   └── toxref-v2.0-pods-rat-liver.xlsx                     # ToxRefDB in vivo effect data
+    │
     ├── notebooks                                               # Jupyter notebooks for the workflow
     │   └── heprn-ivive                                         # This paper
     │       ├── 010-heprn-db.ipynb                              # Build the database
@@ -35,10 +37,12 @@ This repository contains the necessary data, python source code and jupyter note
     │       ├── 205-qivive-rtk.ipynb                            # PBTK simulation for all chemicals
     │       ├── 223-heprn-qivive-aed-cmp.ipynb                  # IVIVE using rTK
     │       └── 301-heprn-qivive-figs.ipynb                     # Generate all figures, tables, suppl. mat.
+    │
     ├── outputs                                                 # All output files
     │   ├── figs
     │   └── suppl
     ├── setup.py
+    │
     ├── src                                                     # All python packages to support workflow
     │   └── heprnhci 
     │       ├── cr                                              # concentration-response analysis
@@ -47,6 +51,7 @@ This repository contains the necessary data, python source code and jupyter note
     │       ├── tk                                              # toxicokinetic modeling
     │       ├── utl                                             
     │       └── viz                                             # visualisation 
+    │
     └── test_environment.py
 
 # How to reproduce the analysis
@@ -57,31 +62,56 @@ This repository contains the necessary data, python source code and jupyter note
 
 [Install miniconda3 by following these instructions](https://docs.conda.io/en/latest/miniconda.html#installing). Make sure that the miniconda3/bin directory is in your path. 
 
+### Install Jupyterlab
+
+[Follow these instructions to install Jupyterlab](https://jupyterlab.readthedocs.io/en/stable/)
+
 ### Install the necessary pacakges
 
 All the Python3 and R dependencies can be installed using the files in the `environments` directory. These instructions assume that all dependencies will be installed in a `conda` environment. First, create the conda environment using the following shell command:
 
 `conda env create -f environment/condaenv.yml -n hcinam`
 
-Second, install the R packages after starting the session:
+If all goes well then switch to the new environment using: `conda activate hcinam`. Next, install the R packages after starting the session (make sure you're using the hcinam environment):
 
 `new_pkgs <- read.csv('environment/rdeps.csv')
  existing_pkgs <- as.data.frame(installed.packages())
  to_install <- setdiff(existing_pkgs,new_pks)
  install.packages(to_install)`
 
+### Setup the .env file
+
+Create a .env file in the notebooks directory with the following information (path_to is the path to the top level directory in which this repo was cloned):-
+
+`
+TOP=/path_to/heprn-hci-nam/
+LIB=/path_to/heprn-hci-nam/src
+DAT_DIR=/path_to/heprn-hci-nam/inputs/
+SUP_DIR=/path_to/heprn-hci-nam/v2.0-supp/
+FIG_DIR=/path_to/heprn-hci-nam/figs/v2.0/'
+R_HOME=/path_to_miniconda_envs/hcinam/lib/R
+MONGO_HCIDB=name of the mongodb database 
+MONGO_HOST= hostname for the mongodb server
+`
+
 ## Setting up the MongoDB database
 
 All raw and processed HCI data are stored in a MongoDB database. This database can be build using data from the `inputs` directory or downloaded from this ftp site. 
 
-### Downloading and creating the MongoDB database
+### Install MongoDB
+Follow instructions [here](https://docs.mongodb.com/manual/installation/) to install MongoDB for your operating system. Once you have started MongoDB on your system you will need to create a database. 
 
-### Building the MongoDB database
-
-## Generate the figures 
+### Downloading and restoring the MongoDB database
 
 
+### Building the MongoDB database from raw data
+
+
+## Conduct the analysis
+All figures and tables can be reproduced by running this notebook in Jupyterlab: 
+
+`notebooks/heprn-ivive/301-heprn-qivive-figs.ipynb`
 
 
 <p>
-    <tiny>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</tiny></p>
+    <tiny>With help from the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</tiny></p>
