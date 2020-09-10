@@ -1,0 +1,89 @@
+INPUT	FOUND_BY	DTXSID	PREFERRED_NAME	CASRN	QSAR_READY_SMILES
+1,1-Dimethylhydrazine	Approved Name	DTXSID1020516	1,1-Dimethylhydrazine	57-14-7	CN(C)N
+1-Chloro-4-nitrobenzene	Approved Name	DTXSID5020281	1-Chloro-4-nitrobenzene	100-00-5	[O-][N+](=O)C1=CC=C(Cl)C=C1
+2,4-Dichlorophenoxyacetic acid	Approved Name	DTXSID0020442	2,4-Dichlorophenoxyacetic acid	94-75-7	OC(=O)COC1=C(Cl)C=C(Cl)C=C1
+2-Butoxyethanol	Approved Name	DTXSID1024097	2-Butoxyethanol	111-76-2	CCCCOCCO
+2-Methyl-5-nitroaniline	Approved Name	DTXSID4020959	2-Methyl-5-nitroaniline	99-55-8	CC1=C(N)C=C(C=C1)[N+]([O-])=O
+3'-Azido-3'-deoxythymidine	Approved Name	DTXSID8020127	3'-Azido-3'-deoxythymidine	30516-87-1	CC1=CN(C2CC(N=[N+]=[N-])C(CO)O2)C(=O)N=C1O
+4-Nitroaniline	Approved Name	DTXSID8020961	4-Nitroaniline	100-01-6	NC1=CC=C(C=C1)[N+]([O-])=O
+4-Nonylphenol, branched	Approved Name	DTXSID5029055	4-Nonylphenol, branched	84852-15-3	-
+Acetaminophen	Approved Name	DTXSID2020006	Acetaminophen	103-90-2	CC(=O)NC1=CC=C(O)C=C1
+Acetochlor	Approved Name	DTXSID8023848	Acetochlor	34256-82-1	CCOCN(C(=O)CCl)C1=C(CC)C=CC=C1C
+Alachlor	Approved Name	DTXSID1022265	Alachlor	15972-60-8	CCC1=CC=CC(CC)=C1N(COC)C(=O)CCl
+Aldrin	Approved Name	DTXSID8020040	Aldrin	309-00-2	ClC1=C(Cl)C2(Cl)C3C4CC(C=C4)C3C1(Cl)C2(Cl)Cl
+Allethrin	Approved Name	DTXSID8035180	Allethrin	584-79-2	CC(C)=CC1C(C(=O)OC2CC(=O)C(CC=C)=C2C)C1(C)C
+Ametryn	Approved Name	DTXSID1023869	Ametryn	834-12-8	CCNC1=NC(SC)=NC(NC(C)C)=N1
+Bensulide	Approved Name	DTXSID9032329	Bensulide	741-58-2	CC(C)OP(=S)(OC(C)C)SCCNS(=O)(=O)C1=CC=CC=C1
+Bentazone	Approved Name	DTXSID0023901	Bentazone	25057-89-0	CC(C)N1C(=O)C2=C(NS1(=O)=O)C=CC=C2
+Bisphenol A	Approved Name	DTXSID7020182	Bisphenol A	80-05-7	CC(C)(C1=CC=C(O)C=C1)C1=CC=C(O)C=C1
+Boscalid	Approved Name	DTXSID6034392	Boscalid	188425-85-6	ClC1=CC=C(C=C1)C1=C(NC(=O)C2=C(Cl)N=CC=C2)C=CC=C1
+Bronopol	Approved Name	DTXSID8024652	Bronopol	52-51-7	OCC(Br)(CO)[N+]([O-])=O
+Butachlor	Approved Name	DTXSID3034402	Butachlor	23184-66-9	CCCCOCN(C(=O)CCl)C1=C(CC)C=CC=C1CC
+CJ-013790	Approved Name	DTXSID2047303	CJ-013790	179465-71-5	NC(=O)N(O)C1CC(OC2=CC(OC3=CC=C(F)C=C3)=CC=C2)C=C1
+Captan	Approved Name	DTXSID9020243	Captan	133-06-2	ClC(Cl)(Cl)SN1C(=O)C2CC=CCC2C1=O
+Carbaryl	Approved Name	DTXSID9020247	Carbaryl	63-25-2	CNC(=O)OC1=C2C=CC=CC2=CC=C1
+Cariporide mesylate	Approved Name	DTXSID3047344	Cariporide mesylate	159138-81-5	CC(C)C1=CC=C(C=C1S(C)(=O)=O)C(=O)N=C(N)N
+Chloridazon	Approved Name	DTXSID3034872	Chloridazon	1698-60-8	ClC1C(=N)C=NN(C1=O)C1=CC=CC=C1
+Chlorpropham	Approved Name	DTXSID7020764	Chlorpropham	101-21-3	CC(C)OC(=O)NC1=CC=CC(Cl)=C1
+Clodinafop-propargyl	Approved Name	DTXSID6032354	Clodinafop-propargyl	105512-06-9	CC(OC1=CC=C(OC2=NC=C(Cl)C=C2F)C=C1)C(=O)OCC#C
+Clofibrate	Approved Name	DTXSID3020336	Clofibrate	637-07-0	CCOC(=O)C(C)(C)OC1=CC=C(Cl)C=C1
+Coumarin	Approved Name	DTXSID7020348	Coumarin	91-64-5	O=C1OC2=C(C=CC=C2)C=C1
+Cyclanilide	Approved Name	DTXSID5032600	Cyclanilide	113136-77-9	OC(=O)C1(CC1)C(=O)NC1=CC=C(Cl)C=C1Cl
+Cyproconazole	Approved Name	DTXSID0032601	Cyproconazole	94361-06-5	CC(C1CC1)C(O)(CN1C=NC=N1)C1=CC=C(Cl)C=C1
+Cyprodinil	Approved Name	DTXSID1032359	Cyprodinil	121552-61-2	CC1=NC(NC2=CC=CC=C2)=NC(=C1)C1CC1
+Di(2-ethylhexyl) phthalate	Approved Name	DTXSID5020607	Di(2-ethylhexyl) phthalate	117-81-7	CCCCC(CC)COC(=O)C1=C(C=CC=C1)C(=O)OCC(CC)CCCC
+Dichlobenil	Approved Name	DTXSID5032365	Dichlobenil	1194-65-6	ClC1=CC=CC(Cl)=C1C#N
+Dimethenamid	Approved Name	DTXSID4032376	Dimethenamid	87674-68-8	COCC(C)N(C(=O)CCl)C1=C(C)SC=C1C
+Diphenylamine	Approved Name	DTXSID4021975	Diphenylamine	122-39-4	N(C1=CC=CC=C1)C1=CC=CC=C1
+Dithiopyr	Approved Name	DTXSID9032379	Dithiopyr	97886-45-8	CSC(=O)C1=C(N=C(C(C(=O)SC)=C1CC(C)C)C(F)(F)F)C(F)F
+Diuron	Approved Name	DTXSID0020446	Diuron	330-54-1	CN(C)C(=O)NC1=CC(Cl)=C(Cl)C=C1
+Endothal	Approved Name	DTXSID7024081	Endothal	145-73-3	OC(=O)C1C2CCC(O2)C1C(O)=O
+Ethofumesate	Approved Name	DTXSID8034580	Ethofumesate	26225-79-6	CCOC1OC2=C(C=C(OS(C)(=O)=O)C=C2)C1(C)C
+Ethoprop	Approved Name	DTXSID4032611	Ethoprop	13194-48-4	CCCSP(=O)(OCC)SCCC
+Etoxazole	Approved Name	DTXSID8034586	Etoxazole	153233-91-1	CCOC1=C(C=CC(=C1)C(C)(C)C)C1COC(=N1)C1=C(F)C=CC=C1F
+Fenarimol	Approved Name	DTXSID2032390	Fenarimol	60168-88-9	OC(C1=CC=C(Cl)C=C1)(C1=CN=CN=C1)C1=CC=CC=C1Cl
+Fenbuconazole	Approved Name	DTXSID8032548	Fenbuconazole	114369-43-6	ClC1=CC=C(CCC(CN2C=NC=N2)(C#N)C2=CC=CC=C2)C=C1
+Fenthion	Approved Name	DTXSID8020620	Fenthion	55-38-9	COP(=S)(OC)OC1=CC(C)=C(SC)C=C1
+Fludioxonil	Approved Name	DTXSID2032398	Fludioxonil	131341-86-1	FC1(F)OC2=CC=CC(=C2O1)C1=CNC=C1C#N
+Flufenacet	Approved Name	DTXSID2032552	Flufenacet	142459-58-3	CC(C)N(C(=O)COC1=NN=C(S1)C(F)(F)F)C1=CC=C(F)C=C1
+Flusilazole	Approved Name	DTXSID3024235	Flusilazole	85509-19-9	C[Si](CN1C=NC=N1)(C1=CC=C(F)C=C1)C1=CC=C(F)C=C1
+Folpet	Approved Name	DTXSID0021385	Folpet	133-07-3	ClC(Cl)(Cl)SN1C(=O)C2=C(C=CC=C2)C1=O
+Fosthiazate	Approved Name	DTXSID0034930	Fosthiazate	98886-44-3	CCOP(=O)(SC(C)CC)N1CCSC1=O
+Furfural	Approved Name	DTXSID1020647	Furfural	98-01-1	O=CC1=CC=CO1
+Halosulfuron-methyl	Approved Name	DTXSID9034650	Halosulfuron-methyl	100784-20-1	COC(=O)C1=C(N(C)N=C1Cl)S(=O)(=O)NC(=O)NC1=NC(OC)=CC(OC)=N1
+Hexaconazole	Approved Name	DTXSID4034653	Hexaconazole	79983-71-4	CCCCC(O)(CN1C=NC=N1)C1=CC=C(Cl)C=C1Cl
+Imazalil	Approved Name	DTXSID8024151	Imazalil	35554-44-0	ClC1=CC(Cl)=C(C=C1)C(CN1C=CN=C1)OCC=C
+Imidacloprid	Approved Name	DTXSID5032442	Imidacloprid	138261-41-3	[O-][N+](=O)\N=C1/NCCN1CC1=CN=C(Cl)C=C1
+Isazofos	Approved Name	DTXSID7034676	Isazofos	42509-80-8	CCOP(=S)(OCC)OC1=NN(C(C)C)C(Cl)=N1
+Isoxaben	Approved Name	DTXSID8024159	Isoxaben	82558-50-7	CCC(C)(CC)C1=NOC(NC(=O)C2=C(OC)C=CC=C2OC)=C1
+Isoxaflutole	Approved Name	DTXSID5034723	Isoxaflutole	141112-29-0	CS(=O)(=O)C1=C(C=CC(=C1)C(F)(F)F)C(=O)C1=C(ON=C1)C1CC1
+Lactofen	Approved Name	DTXSID7024160	Lactofen	77501-63-4	CCOC(=O)C(C)OC(=O)C1=C(C=CC(OC2=C(Cl)C=C(C=C2)C(F)(F)F)=C1)[N+]([O-])=O
+Lindane	Approved Name	DTXSID2020686	Lindane	58-89-9	ClC1C(Cl)C(Cl)C(Cl)C(Cl)C1Cl
+MCPA	Approved Name	DTXSID4024195	MCPA	94-74-6	CC1=C(OCC(O)=O)C=CC(Cl)=C1
+Mercuric chloride	Approved Name	DTXSID5020811	Mercuric chloride	7487-94-7	-
+Methyl parathion	Approved Name	DTXSID1020855	Methyl parathion	298-00-0	COP(=S)(OC)OC1=CC=C(C=C1)[N+]([O-])=O
+Metolachlor	Approved Name	DTXSID4022448	Metolachlor	51218-45-2	CCC1=C(N(C(C)COC)C(=O)CCl)C(C)=CC=C1
+N,N-Dimethylformamide	Approved Name	DTXSID6020515	N,N-Dimethylformamide	68-12-2	CN(C)C=O
+Novaluron	Approved Name	DTXSID5034773	Novaluron	116714-46-6	FC(OC(F)(F)F)C(F)(F)OC1=C(Cl)C=C(NC(=O)NC(=O)C2=C(F)C=CC=C2F)C=C1
+Oxadiazon	Approved Name	DTXSID3024239	Oxadiazon	19666-30-9	CC(C)OC1=CC(N2N=C(OC2=O)C(C)(C)C)=C(Cl)C=C1Cl
+Pentachloronitrobenzene	Approved Name	DTXSID2021105	Pentachloronitrobenzene	82-68-8	[O-][N+](=O)C1=C(Cl)C(Cl)=C(Cl)C(Cl)=C1Cl
+Permethrin	Approved Name	DTXSID8022292	Permethrin	52645-53-1	CC1(C)C(C=C(Cl)Cl)C1C(=O)OCC1=CC(OC2=CC=CC=C2)=CC=C1
+Pioglitazone hydrochloride	Approved Name	DTXSID3044203	Pioglitazone hydrochloride	112529-15-4	CCC1=CN=C(CCOC2=CC=C(CC3SC(=O)NC3=O)C=C2)C=C1
+Propamocarb hydrochloride	Approved Name	DTXSID6034849	Propamocarb hydrochloride	25606-41-1	CCCOC(=O)NCCCN(C)C
+Propyzamide	Approved Name	DTXSID2020420	Propyzamide	23950-58-5	CC(C)(NC(=O)C1=CC(Cl)=CC(Cl)=C1)C#C
+Pyrimethanil	Approved Name	DTXSID8034877	Pyrimethanil	53112-28-0	CC1=CC(C)=NC(NC2=CC=CC=C2)=N1
+Pyrithiobac-sodium	Approved Name	DTXSID8032673	Pyrithiobac-sodium	123343-16-8	COC1=CC(OC)=NC(SC2=C(C(O)=O)C(Cl)=CC=C2)=N1
+Resmethrin	Approved Name	DTXSID7022253	Resmethrin	10453-86-8	CC(C)=CC1C(C(=O)OCC2=COC(CC3=CC=CC=C3)=C2)C1(C)C
+Rimsulfuron	Approved Name	DTXSID1032642	Rimsulfuron	122931-48-0	CCS(=O)(=O)C1=CC=CN=C1S(=O)(=O)NC(=O)NC1=NC(OC)=CC(OC)=N1
+S-Bioallethrin	Approved Name	DTXSID2039336	S-Bioallethrin	28434-00-6	CC(C)=CC1C(C(=O)OC2CC(=O)C(CC=C)=C2C)C1(C)C
+Simazine	Approved Name	DTXSID4021268	Simazine	122-34-9	CCNC1=NC(NCC)=NC(Cl)=N1
+Spirodiclofen	Approved Name	DTXSID6034928	Spirodiclofen	148477-71-8	CCC(C)(C)C(=O)OC1=C(C(=O)OC11CCCCC1)C1=CC(Cl)=CC(Cl)=C1
+Tetraconazole	Approved Name	DTXSID8034956	Tetraconazole	112281-77-3	FC(F)C(F)(F)OCC(CN1C=NC=N1)C1=C(Cl)C=C(Cl)C=C1
+Thidiazuron	Approved Name	DTXSID0032651	Thidiazuron	51707-55-2	O=C(NC1=CN=NS1)NC1=CC=CC=C1
+Triadimefon	Approved Name	DTXSID3023897	Triadimefon	43121-43-3	CC(C)(C)C(=O)C(OC1=CC=C(Cl)C=C1)N1C=NC=N1
+Trichlorfon	Approved Name	DTXSID0021389	Trichlorfon	52-68-6	COP(=O)(OC)C(O)C(Cl)(Cl)Cl
+Triclosan	Approved Name	DTXSID5032498	Triclosan	3380-34-5	OC1=C(OC2=CC=C(Cl)C=C2Cl)C=CC(Cl)=C1
+Triflumizole	Approved Name	DTXSID2032500	Triflumizole	68694-11-1	CCCOCC(=NC1=CC=C(Cl)C=C1C(F)(F)F)N1C=CN=C1
+Triticonazole	Approved Name	DTXSID0032655	Triticonazole	131983-72-7	CC1(C)CCC(=CC2=CC=C(Cl)C=C2)C1(O)CN1C=NC=N1
+Troglitazone	Approved Name	DTXSID8023719	Troglitazone	97322-87-7	CC1=C(O)C(C)=C2CCC(C)(COC3=CC=C(CC4SC(=O)NC4=O)C=C3)OC2=C1C
+Zoxamide	Approved Name	DTXSID9032581	Zoxamide	156052-68-5	CCC(C)(NC(=O)C1=CC(Cl)=C(C)C(Cl)=C1)C(=O)CCl
