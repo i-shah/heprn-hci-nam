@@ -63,7 +63,7 @@ ptyprocess==0.6.0
 py==1.8.1
 pycparser==2.20
 pyct==0.4.6
-Pygments==2.6.1
+Pygments==2.7.4
 pymongo==3.9.0
 pyparsing==2.4.6
 pystaggrelite3==0.1.3
