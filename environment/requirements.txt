@@ -13,7 +13,7 @@ datashader==0.10.0
 datashape==0.5.2
 decorator==4.4.2
 dictset==0.3.1.2
-distributed==2.14.0
+distributed==2021.10.0
 et-xmlfile==1.0.1
 fsspec==0.7.2
 HeapDict==1.0.1
